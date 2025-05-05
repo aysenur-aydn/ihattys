@@ -85,7 +85,7 @@ return (
                 <input type="password"
                         id="sifre"
                         name="password"
-                        placeholder="Password"
+                        placeholder="Passworddd"
                         onChange={handleChange}/>
                  
                 <Button onClick={sign} type="submit"> Sign in</Button>
